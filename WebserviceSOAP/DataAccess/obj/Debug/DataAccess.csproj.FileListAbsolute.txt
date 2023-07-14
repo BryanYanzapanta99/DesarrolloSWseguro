@@ -1,0 +1,18 @@
+C:\projects\puntonet\ap\DataAccess\bin\Debug\DataAccess.dll
+C:\projects\puntonet\ap\DataAccess\bin\Debug\DataAccess.pdb
+C:\projects\puntonet\ap\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\projects\puntonet\ap\DataAccess\obj\Debug\DataAccess.dll
+C:\projects\puntonet\ap\DataAccess\obj\Debug\DataAccess.pdb
+C:\projects\puntonet\ap\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Septimo\sofseg\ap\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\DELL\Desktop\Septimo\sofseg\ap\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\DELL\Desktop\Septimo\sofseg\ap\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Septimo\sofseg\ap\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Septimo\sofseg\ap\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\DELL\Desktop\Septimo\sofseg\ap\DataAccess\obj\Debug\DataAccess.pdb
+E:\7 SEPTIMO SEMESTRE\DESARROLLO DE SW SEGURO\njdsnc\ap\DataAccess\bin\Debug\DataAccess.dll
+E:\7 SEPTIMO SEMESTRE\DESARROLLO DE SW SEGURO\njdsnc\ap\DataAccess\bin\Debug\DataAccess.pdb
+E:\7 SEPTIMO SEMESTRE\DESARROLLO DE SW SEGURO\njdsnc\ap\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+E:\7 SEPTIMO SEMESTRE\DESARROLLO DE SW SEGURO\njdsnc\ap\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\7 SEPTIMO SEMESTRE\DESARROLLO DE SW SEGURO\njdsnc\ap\DataAccess\obj\Debug\DataAccess.dll
+E:\7 SEPTIMO SEMESTRE\DESARROLLO DE SW SEGURO\njdsnc\ap\DataAccess\obj\Debug\DataAccess.pdb
