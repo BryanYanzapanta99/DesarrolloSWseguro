@@ -10,3 +10,9 @@ E:\7 SEPTIMO SEMESTRE\DESARROLLO DE SW SEGURO\ap\DataAccess\obj\Debug\DataAccess
 E:\7 SEPTIMO SEMESTRE\DESARROLLO DE SW SEGURO\ap\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
 E:\7 SEPTIMO SEMESTRE\DESARROLLO DE SW SEGURO\ap\DataAccess\obj\Debug\DataAccess.dll
 E:\7 SEPTIMO SEMESTRE\DESARROLLO DE SW SEGURO\ap\DataAccess\obj\Debug\DataAccess.pdb
+E:\7 SEPTIMO SEMESTRE\DESARROLLO DE SW SEGURO\DesarrolloSWseguro\AplicationTarea1\DataAccess\bin\Debug\DataAccess.dll
+E:\7 SEPTIMO SEMESTRE\DESARROLLO DE SW SEGURO\DesarrolloSWseguro\AplicationTarea1\DataAccess\bin\Debug\DataAccess.pdb
+E:\7 SEPTIMO SEMESTRE\DESARROLLO DE SW SEGURO\DesarrolloSWseguro\AplicationTarea1\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+E:\7 SEPTIMO SEMESTRE\DESARROLLO DE SW SEGURO\DesarrolloSWseguro\AplicationTarea1\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\7 SEPTIMO SEMESTRE\DESARROLLO DE SW SEGURO\DesarrolloSWseguro\AplicationTarea1\DataAccess\obj\Debug\DataAccess.dll
+E:\7 SEPTIMO SEMESTRE\DESARROLLO DE SW SEGURO\DesarrolloSWseguro\AplicationTarea1\DataAccess\obj\Debug\DataAccess.pdb
